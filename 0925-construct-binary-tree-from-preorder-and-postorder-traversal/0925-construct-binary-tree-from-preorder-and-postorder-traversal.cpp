@@ -11,35 +11,31 @@
  */
 class Solution {
 public:
-
-TreeNode* f(vector<int>& preorder, map<int, int>& m, int& idx, int st, int end) {
-        if (st > end || idx >= preorder.size()) {
-            return nullptr;
+    int indx=0;
+    TreeNode* f(int st, int en, vector<int>&pre, vector<int>&post, map<int,int>postIdx) {
+        if (indx >= pre.size() || st > en) return nullptr; 
+        if(st==en){
+            return new TreeNode(pre[indx++]);
         }
+        TreeNode * root = new TreeNode(pre[indx++]);
 
-        TreeNode* root = new TreeNode(preorder[idx]);
-        idx++;
-
-        if (st == end) {
+        if(indx >= pre.size()){
             return root;
         }
-
-        int postIdx = m[preorder[idx]];
-
-        root->left = f(preorder, m, idx, st, postIdx);
-        root->right = f(preorder, m, idx, postIdx + 1, end - 1);
-
+        int idx = postIdx[pre[indx]]; // check of next element
+        root->left = f(st,idx,pre,post,postIdx);
+        root->right= f(idx+1,en-1,pre,post,postIdx);
         return root;
     }
-
+    
     TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
-        int n = preorder.size();
-        map<int, int> m;
-        for (int i = 0; i < n; i++) {
-            m[postorder[i]] = i;
+        map<int,int>postIdx;
+        int n=preorder.size();
+        int cnt=0;
+        for(auto it:postorder){
+            postIdx[it]=cnt;
+            cnt++;
         }
-
-        int idx = 0;
-        return f(preorder, m, idx, 0, n - 1);
+        return f(0,n-1,preorder,postorder, postIdx);
     }
 };
