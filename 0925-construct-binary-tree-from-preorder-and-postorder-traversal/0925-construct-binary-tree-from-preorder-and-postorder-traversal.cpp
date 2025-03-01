@@ -18,10 +18,6 @@ public:
             return new TreeNode(pre[indx++]);
         }
         TreeNode * root = new TreeNode(pre[indx++]);
-
-        if(indx >= pre.size()){
-            return root;
-        }
         int idx = postIdx[pre[indx]]; // check of next element
         root->left = f(st,idx,pre,post,postIdx);
         root->right= f(idx+1,en-1,pre,post,postIdx);
