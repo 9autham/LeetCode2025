@@ -1,70 +1,71 @@
 class Solution {
 public:
-    unordered_map<int, vector<int>> adj;
-    unordered_map<int, int> bobMap;
-    int aliceIncome;
-
-    bool DFSBob(int curr, int t, vector<bool>& visited) {
-        visited[curr] = true;
-        bobMap[curr] = t;
-
-        if(curr == 0) {
+    bool dfs(int idx,vector<int>&vis,vector<vector<int>>&adj,vector<int>&time,int t){
+        if(idx==0){
             return true;
         }
-
-        for(auto &ngbr : adj[curr]) {
-            if(!visited[ngbr]) {
-                if(DFSBob(ngbr, t+1, visited) == true) {
+        vis[idx]=1;
+        for(int i=0;i<adj[idx].size();i++){
+            bool reached = false;
+            if(!vis[adj[idx][i]]){
+                reached = dfs(adj[idx][i],vis,adj,time,t+1);
+                if(reached){
+                    if(adj[idx][i])
+                    time[adj[idx][i]]=t+1;
                     return true;
                 }
             }
         }
-
-        bobMap.erase(curr);
         return false;
     }
 
-    void DFSAlice(int curr, int t, int income, vector<bool>& visited, vector<int>& amount) {
-        visited[curr] = true;
-
-        if(bobMap.find(curr) == bobMap.end() || t < bobMap[curr]) {
-            income += amount[curr];
-        } else if(t == bobMap[curr]) {
-            income += (amount [curr] / 2);
+    int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
+        int n=amount.size();
+        vector<vector<int>>adj(n);
+        for(int i=0;i<edges.size();i++){
+            adj[edges[i][0]].push_back(edges[i][1]);
+            adj[edges[i][1]].push_back(edges[i][0]);
         }
-
-        if(adj[curr].size() == 1 && curr != 0) {
-            aliceIncome = max(aliceIncome, income);
-        }
-
-        for(int &ngbr : adj[curr]) {
-            if(!visited[ngbr]) {
-                DFSAlice(ngbr, t+1, income, visited, amount);
+        vector<int>vis(n,0);
+        vector<int>time(n,INT_MAX);
+        time[bob]=0;
+        dfs(bob,vis,adj,time,0);
+        // Alice turn 
+        queue<pair<int,pair<int,int>>>q;
+        fill(vis.begin(),vis.end(),0);
+        q.push({0,{0,amount[0]}}); // {idx,{seconds,amount}}
+        vis[0]=1;
+        int ans=INT_MIN;
+        while(!q.empty()){
+            int n=q.size();
+            for(int i=0;i<n;i++){
+                auto it=q.front();
+                q.pop();
+                int idx=it.first;
+                int sec=it.second.first;
+                int amt=it.second.second;
+                // cout<<idx<<endl;
+                if(adj[idx].size() == 1 && idx != 0)
+                ans=max(ans,amt);
+                cout<<amt<<endl;
+                for(int j=0;j<adj[idx].size();j++){
+                    int nidx=adj[idx][j];
+                    if(vis[nidx])continue;
+                    if(time[nidx]>(sec+1) || time[nidx]==INT_MAX){
+                        vis[nidx]=1;
+                        q.push({nidx,{sec+1,amt+(amount[nidx])}});
+                    }
+                    else if(time[nidx]==(sec+1)){
+                        vis[nidx]=1;
+                        q.push({nidx,{sec+1,amt+(amount[nidx]/2)}});
+                    }
+                    else{
+                        vis[nidx]=1;
+                        q.push({nidx,{sec+1,amt+(0)}});
+                    }
+                }
             }
         }
+        return ans;
     }
-
-    int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
-        int n = amount.size();
-
-        aliceIncome = INT_MIN;
-        for(vector<int>& edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-
-        int time = 0;
-        vector<bool> visited(n, false);
-        DFSBob(bob, time, visited);
-        
-        int income = 0;
-        visited.assign(n, false);
-        DFSAlice(0, 0, income, visited, amount);
-
-        return aliceIncome;
-    }
-    // revisit
 };
