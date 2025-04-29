@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/9autham/LeetCode2025/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/9autham/LeetCode2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/9autham/LeetCode2025/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/9autham/LeetCode2025/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/9autham/LeetCode2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/9autham/LeetCode2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/9autham/LeetCode2025/tree/master/3430-count-days-without-meetings) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/9autham/LeetCode2025/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/9autham/LeetCode2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/9autham/LeetCode2025/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/9autham/LeetCode2025/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/9autham/LeetCode2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Bit Manipulation
