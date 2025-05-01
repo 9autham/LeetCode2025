@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/9autham/LeetCode2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/9autham/LeetCode2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/9autham/LeetCode2025/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/9autham/LeetCode2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/9autham/LeetCode2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/9autham/LeetCode2025/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/9autham/LeetCode2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/9autham/LeetCode2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
