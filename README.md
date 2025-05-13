@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/9autham/LeetCode2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/9autham/LeetCode2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/9autham/LeetCode2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/9autham/LeetCode2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/9autham/LeetCode2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/9autham/LeetCode2025/tree/master/3548-find-the-count-of-good-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/9autham/LeetCode2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/9autham/LeetCode2025/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/9autham/LeetCode2025/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/9autham/LeetCode2025/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/9autham/LeetCode2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/9autham/LeetCode2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/9autham/LeetCode2025/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/9autham/LeetCode2025/tree/master/2308-divide-array-into-equal-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Topological Sort
 |  |
 | ------- |
