@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/9autham/LeetCode2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/9autham/LeetCode2025/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/9autham/LeetCode2025/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/9autham/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/9autham/LeetCode2025/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/9autham/LeetCode2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/9autham/LeetCode2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/9autham/LeetCode2025/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/9autham/LeetCode2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/9autham/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
