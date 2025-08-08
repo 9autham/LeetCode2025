@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/9autham/LeetCode2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/9autham/LeetCode2025/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/9autham/LeetCode2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/9autham/LeetCode2025/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/9autham/LeetCode2025/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/9autham/LeetCode2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/9autham/LeetCode2025/tree/master/2079-delete-duplicate-folders-in-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
