@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/9autham/LeetCode2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/9autham/LeetCode2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/9autham/LeetCode2025/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/9autham/LeetCode2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/9autham/LeetCode2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
