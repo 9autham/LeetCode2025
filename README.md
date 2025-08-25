@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/9autham/LeetCode2025/tree/master/0135-candy) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/9autham/LeetCode2025/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/9autham/LeetCode2025/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/9autham/LeetCode2025/tree/master/2551-apply-operations-to-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/9autham/LeetCode2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
