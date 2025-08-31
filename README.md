@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0075-sort-colors](https://github.com/9autham/LeetCode2025/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/9autham/LeetCode2025/tree/master/0135-candy) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0594-longest-harmonious-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/9autham/LeetCode2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -462,5 +465,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
