@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/9autham/LeetCode2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/9autham/LeetCode2025/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/9autham/LeetCode2025/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
