@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/9autham/LeetCode2025/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/9autham/LeetCode2025/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/9autham/LeetCode2025/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/9autham/LeetCode2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/9autham/LeetCode2025/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/9autham/LeetCode2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/9autham/LeetCode2025/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/9autham/LeetCode2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/9autham/LeetCode2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
