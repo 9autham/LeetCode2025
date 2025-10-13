@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/9autham/LeetCode2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/9autham/LeetCode2025/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/9autham/LeetCode2025/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/9autham/LeetCode2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/9autham/LeetCode2025/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/9autham/LeetCode2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/9autham/LeetCode2025/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/9autham/LeetCode2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/9autham/LeetCode2025/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/9autham/LeetCode2025/tree/master/1170-shortest-common-supersequence) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/9autham/LeetCode2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/9autham/LeetCode2025/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9autham/LeetCode2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/9autham/LeetCode2025/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/9autham/LeetCode2025/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/9autham/LeetCode2025/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/9autham/LeetCode2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/9autham/LeetCode2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
