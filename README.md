@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/9autham/LeetCode2025/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/9autham/LeetCode2025/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/9autham/LeetCode2025/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/9autham/LeetCode2025/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/9autham/LeetCode2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/9autham/LeetCode2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/9autham/LeetCode2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/9autham/LeetCode2025/tree/master/2915-count-of-interesting-subarrays) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/9autham/LeetCode2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/9autham/LeetCode2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/9autham/LeetCode2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/9autham/LeetCode2025/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/9autham/LeetCode2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/9autham/LeetCode2025/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/9autham/LeetCode2025/tree/master/3483-alternating-groups-ii) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/9autham/LeetCode2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/9autham/LeetCode2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/9autham/LeetCode2025/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/9autham/LeetCode2025/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/9autham/LeetCode2025/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/9autham/LeetCode2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/9autham/LeetCode2025/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/9autham/LeetCode2025/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/9autham/LeetCode2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/9autham/LeetCode2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/9autham/LeetCode2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -560,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/9autham/LeetCode2025/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/9autham/LeetCode2025/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/9autham/LeetCode2025/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
