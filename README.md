@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/9autham/LeetCode2025/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/9autham/LeetCode2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/9autham/LeetCode2025/tree/master/3396-valid-word) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/9autham/LeetCode2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/9autham/LeetCode2025/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/9autham/LeetCode2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/9autham/LeetCode2025/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/9autham/LeetCode2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/9autham/LeetCode2025/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/9autham/LeetCode2025/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/9autham/LeetCode2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/9autham/LeetCode2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/9autham/LeetCode2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/9autham/LeetCode2025/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/9autham/LeetCode2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/9autham/LeetCode2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/9autham/LeetCode2025/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/9autham/LeetCode2025/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
