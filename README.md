@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/9autham/LeetCode2025/tree/master/0547-number-of-provinces) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/9autham/LeetCode2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/9autham/LeetCode2025/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/9autham/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/9autham/LeetCode2025/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/9autham/LeetCode2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/9autham/LeetCode2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/9autham/LeetCode2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/9autham/LeetCode2025/tree/master/3583-count-special-triplets) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/9autham/LeetCode2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/9autham/LeetCode2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/9autham/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/9autham/LeetCode2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
