@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/9autham/LeetCode2025/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/9autham/LeetCode2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/9autham/LeetCode2025/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/9autham/LeetCode2025/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/9autham/LeetCode2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/9autham/LeetCode2025/tree/master/1170-shortest-common-supersequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/9autham/LeetCode2025/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/9autham/LeetCode2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/9autham/LeetCode2025/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/9autham/LeetCode2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/9autham/LeetCode2025/tree/master/1262-greatest-sum-divisible-by-three) |
