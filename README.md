@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/9autham/LeetCode2025/tree/master/0594-longest-harmonious-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/9autham/LeetCode2025/tree/master/0900-reordered-power-of-2) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/9autham/LeetCode2025/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/9autham/LeetCode2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
+| [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/9autham/LeetCode2025/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/9autham/LeetCode2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/9autham/LeetCode2025/tree/master/2308-divide-array-into-equal-pairs) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 ## Geometry
 |  |
 | ------- |
