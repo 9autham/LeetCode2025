@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/9autham/LeetCode2025/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/9autham/LeetCode2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/9autham/LeetCode2025/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/9autham/LeetCode2025/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/9autham/LeetCode2025/tree/master/2092-find-all-people-with-secret) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2280-count-good-triplets-in-an-array) |
 ## Tree
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/9autham/LeetCode2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/9autham/LeetCode2025/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/9autham/LeetCode2025/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/9autham/LeetCode2025/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/9autham/LeetCode2025/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/9autham/LeetCode2025/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/9autham/LeetCode2025/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/9autham/LeetCode2025/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/9autham/LeetCode2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/9autham/LeetCode2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -803,4 +808,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/9autham/LeetCode2025/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9autham/LeetCode2025/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/9autham/LeetCode2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
