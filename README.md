@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/9autham/LeetCode2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/9autham/LeetCode2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/9autham/LeetCode2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/9autham/LeetCode2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/9autham/LeetCode2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/9autham/LeetCode2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/9autham/LeetCode2025/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/9autham/LeetCode2025/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3797-design-spreadsheet](https://github.com/9autham/LeetCode2025/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/9autham/LeetCode2025/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/9autham/LeetCode2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/9autham/LeetCode2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/9autham/LeetCode2025/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/9autham/LeetCode2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/9autham/LeetCode2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/9autham/LeetCode2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/9autham/LeetCode2025/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/9autham/LeetCode2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/9autham/LeetCode2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -713,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/9autham/LeetCode2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
