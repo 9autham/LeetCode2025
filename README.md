@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/9autham/LeetCode2025/tree/master/0326-power-of-three) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/9autham/LeetCode2025/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/9autham/LeetCode2025/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/9autham/LeetCode2025/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/9autham/LeetCode2025/tree/master/2048-build-array-from-permutation) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/9autham/LeetCode2025/tree/master/1018-binary-prefix-divisible-by-5) |
