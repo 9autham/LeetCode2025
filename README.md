@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
+| [0693-binary-number-with-alternating-bits](https://github.com/9autham/LeetCode2025/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/9autham/LeetCode2025/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/9autham/LeetCode2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
