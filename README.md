@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/9autham/LeetCode2025/tree/master/1170-shortest-common-supersequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/9autham/LeetCode2025/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/9autham/LeetCode2025/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/9autham/LeetCode2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/9autham/LeetCode2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/9autham/LeetCode2025/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/9autham/LeetCode2025/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/9autham/LeetCode2025/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/9autham/LeetCode2025/tree/master/2169-simple-bank-system) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/9autham/LeetCode2025/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/9autham/LeetCode2025/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/9autham/LeetCode2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/9autham/LeetCode2025/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/9autham/LeetCode2025/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/9autham/LeetCode2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/9autham/LeetCode2025/tree/master/2308-divide-array-into-equal-pairs) |
