@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/9autham/LeetCode2025/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/9autham/LeetCode2025/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9autham/LeetCode2025/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/9autham/LeetCode2025/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/9autham/LeetCode2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/9autham/LeetCode2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/9autham/LeetCode2025/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/9autham/LeetCode2025/tree/master/2915-count-of-interesting-subarrays) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/9autham/LeetCode2025/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/9autham/LeetCode2025/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/9autham/LeetCode2025/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/9autham/LeetCode2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
