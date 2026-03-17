@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/9autham/LeetCode2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/9autham/LeetCode2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/9autham/LeetCode2025/tree/master/1656-count-good-triplets) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/9autham/LeetCode2025/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/9autham/LeetCode2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/9autham/LeetCode2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1895-largest-magic-square](https://github.com/9autham/LeetCode2025/tree/master/1895-largest-magic-square) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/9autham/LeetCode2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/9autham/LeetCode2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/9autham/LeetCode2025/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/9autham/LeetCode2025/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/9autham/LeetCode2025/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/9autham/LeetCode2025/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/9autham/LeetCode2025/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/9autham/LeetCode2025/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/9autham/LeetCode2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/9autham/LeetCode2025/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/9autham/LeetCode2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2092-find-all-people-with-secret](https://github.com/9autham/LeetCode2025/tree/master/2092-find-all-people-with-secret) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/9autham/LeetCode2025/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/9autham/LeetCode2025/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/9autham/LeetCode2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/9autham/LeetCode2025/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1917-maximum-average-pass-ratio](https://github.com/9autham/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/9autham/LeetCode2025/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9autham/LeetCode2025/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
