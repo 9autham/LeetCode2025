@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/9autham/LeetCode2025/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/9autham/LeetCode2025/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/9autham/LeetCode2025/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/9autham/LeetCode2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/9autham/LeetCode2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/9autham/LeetCode2025/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9autham/LeetCode2025/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/9autham/LeetCode2025/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/9autham/LeetCode2025/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/9autham/LeetCode2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/9autham/LeetCode2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-apply-operations-to-maximize-score](https://github.com/9autham/LeetCode2025/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/9autham/LeetCode2025/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/9autham/LeetCode2025/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/9autham/LeetCode2025/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/9autham/LeetCode2025/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2551-apply-operations-to-an-array](https://github.com/9autham/LeetCode2025/tree/master/2551-apply-operations-to-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/9autham/LeetCode2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/9autham/LeetCode2025/tree/master/3379-transformed-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/9autham/LeetCode2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/9autham/LeetCode2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/9autham/LeetCode2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2906-construct-product-matrix](https://github.com/9autham/LeetCode2025/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/9autham/LeetCode2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/9autham/LeetCode2025/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/9autham/LeetCode2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/9autham/LeetCode2025/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
