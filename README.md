@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/9autham/LeetCode2025/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/9autham/LeetCode2025/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/9autham/LeetCode2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9autham/LeetCode2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-alternating-groups-ii](https://github.com/9autham/LeetCode2025/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/9autham/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/9autham/LeetCode2025/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/9autham/LeetCode2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/9autham/LeetCode2025/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/9autham/LeetCode2025/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9autham/LeetCode2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/9autham/LeetCode2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/9autham/LeetCode2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/9autham/LeetCode2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/9autham/LeetCode2025/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/9autham/LeetCode2025/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/9autham/LeetCode2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9autham/LeetCode2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/9autham/LeetCode2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/9autham/LeetCode2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/9autham/LeetCode2025/tree/master/3634-minimum-removals-to-balance-array) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/9autham/LeetCode2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/9autham/LeetCode2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/9autham/LeetCode2025/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9autham/LeetCode2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/9autham/LeetCode2025/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/9autham/LeetCode2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/9autham/LeetCode2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/9autham/LeetCode2025/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/9autham/LeetCode2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/9autham/LeetCode2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9autham/LeetCode2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/9autham/LeetCode2025/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/9autham/LeetCode2025/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Brainteaser
