@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/9autham/LeetCode2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/9autham/LeetCode2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/9autham/LeetCode2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/9autham/LeetCode2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/9autham/LeetCode2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/9autham/LeetCode2025/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/9autham/LeetCode2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/9autham/LeetCode2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/9autham/LeetCode2025/tree/master/3546-equal-sum-grid-partition-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/9autham/LeetCode2025/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/9autham/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
