@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/9autham/LeetCode2025/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/9autham/LeetCode2025/tree/master/0135-candy) |
+| [0396-rotate-function](https://github.com/9autham/LeetCode2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/9autham/LeetCode2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/9autham/LeetCode2025/tree/master/0326-power-of-three) |
+| [0396-rotate-function](https://github.com/9autham/LeetCode2025/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
+| [0396-rotate-function](https://github.com/9autham/LeetCode2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/9autham/LeetCode2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
