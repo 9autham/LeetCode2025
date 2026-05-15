@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/9autham/LeetCode2025/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/9autham/LeetCode2025/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/9autham/LeetCode2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/9autham/LeetCode2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/9autham/LeetCode2025/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/9autham/LeetCode2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/9autham/LeetCode2025/tree/master/0611-valid-triangle-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/9autham/LeetCode2025/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/9autham/LeetCode2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
