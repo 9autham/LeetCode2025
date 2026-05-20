@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/9autham/LeetCode2025/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/9autham/LeetCode2025/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2681-put-marbles-in-bags](https://github.com/9autham/LeetCode2025/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/9autham/LeetCode2025/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/9autham/LeetCode2025/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/9autham/LeetCode2025/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/9autham/LeetCode2025/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2540-minimum-common-value](https://github.com/9autham/LeetCode2025/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/9autham/LeetCode2025/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/9autham/LeetCode2025/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/9autham/LeetCode2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/9autham/LeetCode2025/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/9autham/LeetCode2025/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/9autham/LeetCode2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/9autham/LeetCode2025/tree/master/2478-longest-nice-subarray) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/9autham/LeetCode2025/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/9autham/LeetCode2025/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/9autham/LeetCode2025/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
