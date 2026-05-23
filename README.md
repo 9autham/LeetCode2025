@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/9autham/LeetCode2025/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/9autham/LeetCode2025/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/9autham/LeetCode2025/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/9autham/LeetCode2025/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/9autham/LeetCode2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/9autham/LeetCode2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/9autham/LeetCode2025/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
