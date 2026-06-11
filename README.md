@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/9autham/LeetCode2025/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/9autham/LeetCode2025/tree/master/2092-find-all-people-with-secret) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/9autham/LeetCode2025/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/9autham/LeetCode2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/9autham/LeetCode2025/tree/master/3863-power-grid-maintenance) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/9autham/LeetCode2025/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/9autham/LeetCode2025/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/9autham/LeetCode2025/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/9autham/LeetCode2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/9autham/LeetCode2025/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/9autham/LeetCode2025/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3548-find-the-count-of-good-integers](https://github.com/9autham/LeetCode2025/tree/master/3548-find-the-count-of-good-integers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/9autham/LeetCode2025/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/9autham/LeetCode2025/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/9autham/LeetCode2025/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/9autham/LeetCode2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
