@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/9autham/LeetCode2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/9autham/LeetCode2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/9autham/LeetCode2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/9autham/LeetCode2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/9autham/LeetCode2025/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/9autham/LeetCode2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/9autham/LeetCode2025/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/9autham/LeetCode2025/tree/master/3797-design-spreadsheet) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/9autham/LeetCode2025/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/9autham/LeetCode2025/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/9autham/LeetCode2025/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/9autham/LeetCode2025/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/9autham/LeetCode2025/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/9autham/LeetCode2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/9autham/LeetCode2025/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/9autham/LeetCode2025/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/9autham/LeetCode2025/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/9autham/LeetCode2025/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/9autham/LeetCode2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Topological Sort
 |  |
@@ -891,11 +896,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/9autham/LeetCode2025/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/9autham/LeetCode2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
