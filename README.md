@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/9autham/LeetCode2025/tree/master/2092-find-all-people-with-secret) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/9autham/LeetCode2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/9autham/LeetCode2025/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/9autham/LeetCode2025/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/9autham/LeetCode2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/9autham/LeetCode2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/9autham/LeetCode2025/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/9autham/LeetCode2025/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/9autham/LeetCode2025/tree/master/2906-construct-product-matrix) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/9autham/LeetCode2025/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/9autham/LeetCode2025/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/9autham/LeetCode2025/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/9autham/LeetCode2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/9autham/LeetCode2025/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/9autham/LeetCode2025/tree/master/2429-design-a-food-rating-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/9autham/LeetCode2025/tree/master/2681-put-marbles-in-bags) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/9autham/LeetCode2025/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/9autham/LeetCode2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3408-design-task-manager](https://github.com/9autham/LeetCode2025/tree/master/3408-design-task-manager) |
@@ -881,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/9autham/LeetCode2025/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/9autham/LeetCode2025/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/9autham/LeetCode2025/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/9autham/LeetCode2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/9autham/LeetCode2025/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/9autham/LeetCode2025/tree/master/3453-separate-squares-i) |
@@ -1020,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/9autham/LeetCode2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/9autham/LeetCode2025/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/9autham/LeetCode2025/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
