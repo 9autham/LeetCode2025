@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/9autham/LeetCode2025/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/9autham/LeetCode2025/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/9autham/LeetCode2025/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/9autham/LeetCode2025/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/9autham/LeetCode2025/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/9autham/LeetCode2025/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/9autham/LeetCode2025/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/9autham/LeetCode2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/9autham/LeetCode2025/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/9autham/LeetCode2025/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/9autham/LeetCode2025/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/9autham/LeetCode2025/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/9autham/LeetCode2025/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/9autham/LeetCode2025/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/9autham/LeetCode2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/9autham/LeetCode2025/tree/master/3546-equal-sum-grid-partition-i) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/9autham/LeetCode2025/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/9autham/LeetCode2025/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9autham/LeetCode2025/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/9autham/LeetCode2025/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/9autham/LeetCode2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Sorting
@@ -775,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/9autham/LeetCode2025/tree/master/2681-put-marbles-in-bags) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/9autham/LeetCode2025/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/9autham/LeetCode2025/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3408-design-task-manager](https://github.com/9autham/LeetCode2025/tree/master/3408-design-task-manager) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/9autham/LeetCode2025/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1009,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/9autham/LeetCode2025/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/9autham/LeetCode2025/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/9autham/LeetCode2025/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/9autham/LeetCode2025/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/9autham/LeetCode2025/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
