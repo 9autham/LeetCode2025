@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/9autham/LeetCode2025/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/9autham/LeetCode2025/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/9autham/LeetCode2025/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/9autham/LeetCode2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/9autham/LeetCode2025/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/9autham/LeetCode2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/9autham/LeetCode2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/9autham/LeetCode2025/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/9autham/LeetCode2025/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/9autham/LeetCode2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/9autham/LeetCode2025/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/9autham/LeetCode2025/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/9autham/LeetCode2025/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/9autham/LeetCode2025/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/9autham/LeetCode2025/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3001-apply-operations-to-maximize-score](https://github.com/9autham/LeetCode2025/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
