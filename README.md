@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/9autham/LeetCode2025/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/9autham/LeetCode2025/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/9autham/LeetCode2025/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/9autham/LeetCode2025/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/9autham/LeetCode2025/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/9autham/LeetCode2025/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/9autham/LeetCode2025/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
 | [0874-walking-robot-simulation](https://github.com/9autham/LeetCode2025/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/9autham/LeetCode2025/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/9autham/LeetCode2025/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/9autham/LeetCode2025/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/9autham/LeetCode2025/tree/master/2048-build-array-from-permutation) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/9autham/LeetCode2025/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/9autham/LeetCode2025/tree/master/0498-diagonal-traverse) |
+| [1260-shift-2d-grid](https://github.com/9autham/LeetCode2025/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/9autham/LeetCode2025/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/9autham/LeetCode2025/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/9autham/LeetCode2025/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
