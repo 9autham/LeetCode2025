@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/9autham/LeetCode2025/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/9autham/LeetCode2025/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/9autham/LeetCode2025/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/9autham/LeetCode2025/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/9autham/LeetCode2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/9autham/LeetCode2025/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/9autham/LeetCode2025/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/9autham/LeetCode2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/9autham/LeetCode2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/9autham/LeetCode2025/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/9autham/LeetCode2025/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/9autham/LeetCode2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
