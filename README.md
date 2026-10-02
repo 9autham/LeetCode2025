@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/9autham/LeetCode2025/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/9autham/LeetCode2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/9autham/LeetCode2025/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/9autham/LeetCode2025/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/9autham/LeetCode2025/tree/master/0165-compare-version-numbers) |
@@ -1004,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/9autham/LeetCode2025/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/9autham/LeetCode2025/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
@@ -1069,4 +1072,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/9autham/LeetCode2025/tree/master/3474-lexicographically-smallest-generated-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
