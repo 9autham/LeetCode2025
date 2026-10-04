@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/9autham/LeetCode2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/9autham/LeetCode2025/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/9autham/LeetCode2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/9autham/LeetCode2025/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/9autham/LeetCode2025/tree/master/0826-soup-servings) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/9autham/LeetCode2025/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/9autham/LeetCode2025/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/9autham/LeetCode2025/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/9autham/LeetCode2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/9autham/LeetCode2025/tree/master/0761-special-binary-string) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/9autham/LeetCode2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/9autham/LeetCode2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9autham/LeetCode2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -822,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/9autham/LeetCode2025/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/9autham/LeetCode2025/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/9autham/LeetCode2025/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/9autham/LeetCode2025/tree/master/0797-rabbits-in-forest) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/9autham/LeetCode2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1076,4 +1080,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
