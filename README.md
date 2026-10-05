@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/9autham/LeetCode2025/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/9autham/LeetCode2025/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/9autham/LeetCode2025/tree/master/0768-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0856-score-of-parentheses) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/9autham/LeetCode2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/9autham/LeetCode2025/tree/master/1006-vowel-spellchecker) |
 | [1170-shortest-common-supersequence](https://github.com/9autham/LeetCode2025/tree/master/1170-shortest-common-supersequence) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0856-score-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/9autham/LeetCode2025/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/9autham/LeetCode2025/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/9autham/LeetCode2025/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1081,4 +1083,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/9autham/LeetCode2025/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/9autham/LeetCode2025/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
